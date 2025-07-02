@@ -186,11 +186,85 @@
     font-size: 12px;
 }
 
-.text4 img{
+.text4{
+    display: flex;
+    background-color: gainsboro;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.txt{
+    margin-top: 30px;
     margin-left: 10%;
-    padding-top: 20px;
+}
+
+.txt h2{
+    margin-top: 20px;
+    margin-left: 50px;
+    
 
 }
+.txt h2 span{
+    color: green;
+}
+
+.txt p{
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.cont{
+    margin-top: 5px;
+    margin-left: 8%;
+    
+    
+}
+
+.cont1{
+    margin-top: 10px;
+    margin-left: 10%;
+    display: flex;
+    
+}
+.cont1 img{
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+}
+
+.cont1 p{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.cont1 p span{
+    font-size: 12px;
+}
+.cont2{
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    display: flex;
+    
+}
+.cont2 img{
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.cont2 p{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.cont2 p span{
+    font-size: 12px;
+}
+
 
 .text5 img{
     float: left;
@@ -256,7 +330,7 @@
 
 }
 
-.container6 h1{
+.container6 h2{
     text-align: center;
     width: 300px;
     margin-left: 38%;
@@ -264,8 +338,8 @@
 }
 
 .container6 button{
-    margin-left: 45%;
-    margin-top: 1%;
+    margin-left: 46%;
+    margin-top: 2%;
     height: 30px;
     width: 100px;
     background-color:  rgb(63, 216, 63);
@@ -587,13 +661,82 @@
     font-size: 12px;
 }
 
-.text4 img{
-    margin-left: 2%;
-    padding-top: 20px;
-    width: 400px;
-    height: 150px;
+.text4{
+    display: flex;
+    background-color: gainsboro;
+    width: 100%;
+    
+}
+
+.txt{
+    margin-top: 30px;
+    margin-left: 1%;
+}
+
+.txt h2{
+    margin-top: 20px;
+    margin-left: 50px;
+    
 
 }
+.txt h2 span{
+    color: green;
+}
+
+.txt p{
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.cont{
+    margin-top: 5px;
+    margin-left: 8%;
+    
+}
+
+.cont1{
+    margin-top: 10px;
+    margin-left: 1%;
+    display: flex;
+}
+.cont1 img{
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+}
+
+.cont1 p{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.cont1 p span{
+    font-size: 12px;
+}
+.cont2{
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-bottom: 10%;
+    display: flex;
+}
+.cont2 img{
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.cont2 p{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.cont2 p span{
+    font-size: 12px;
+}
+
 
 .text5 img{
     margin-top: 20px;
@@ -665,7 +808,7 @@
 
 }
 
-.container6 h1{
+.container6 h2{
     text-align: justify;
     width: 300px;
     margin-left: 50px;
@@ -674,7 +817,7 @@
 
 .container6 button{
     margin-left:30%;
-    margin-top: 3%;
+    margin-top: 2%;
     height: 30px;
     width: 100px;
     background-color:  rgb(63, 216, 63);
