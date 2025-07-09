@@ -828,7 +828,7 @@
 .cont4 p{
     margin-top: 20px;
     font-size: 18px;
-    width: 410px;
+    width: 390px;
     padding-left: 20px;
     text-align: justify;
 }
@@ -842,9 +842,10 @@
 }
 .cont5 span{
     color: green;
-    padding-left: 10px;
+    padding-left: 15px;
     padding-top: 25px;
     padding-bottom: 20px;
+    font-size: 14px;
 }
 
 .container5 h2{
