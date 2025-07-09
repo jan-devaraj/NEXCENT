@@ -677,13 +677,13 @@
 .text3 h2{
     margin-left: 8%;
     padding-top: 5%;
-    width: 330px;
+    width: 300px;
     color: rgb(54, 52, 52);
 }
 
 .text3 p{
     margin-left: 8%;
-    width: 350px;
+    width: 300px;
     padding-top: 10px;
     text-align: justify;
 }
@@ -713,7 +713,7 @@
 
 .txt h2{
     margin-top: 20px;
-    margin-left: 40px;
+    margin-left: 35px;
     
 
 }
@@ -722,7 +722,7 @@
 }
 
 .txt p{
-    margin-left: 40px;
+    margin-left: 35px;
     margin-top: 5px;
 }
 
@@ -740,14 +740,14 @@
 }
 .cont1 img{
     height: 30px;
-    margin-left: 25px;
+    margin-left: 20px;
     margin-top: 30px;
     
 }
 
 .cont1 p{
     margin-top: 30px;
-    margin-left: 10px;
+    margin-left: 8px;
     font-size: 20px;
 }
 
@@ -763,13 +763,13 @@
 }
 .cont2 img{
     height: 30px;
-    margin-left: 25px;
+    margin-left: 20px;
     margin-top: 30px;
 }
 
 .cont2 p{
     margin-top: 30px;
-    margin-left: 10px;
+    margin-left: 8px;
     font-size: 20px;
 }
 
@@ -792,7 +792,7 @@
 
 .text5 p{
     margin-left: 5%;
-    width: 350px;
+    width: 300px;
     padding-top: 10px;
     text-align: justify;
 }
@@ -852,12 +852,12 @@
     text-align: center;
     margin-top: 30px;
     color: rgb(54, 52, 52);
-    width: 400px;
+    width: 380px;
 }
 
 .container5 p{
     text-align: justify;
-    width: 350px;
+    width: 300px;
     margin-left: 8%;
     padding-top: 6px;
     font-size: 18px;
