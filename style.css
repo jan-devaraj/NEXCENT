@@ -677,13 +677,13 @@
 .text3 h2{
     margin-left: 8%;
     padding-top: 5%;
-    width: 300px;
+    width: 310px;
     color: rgb(54, 52, 52);
 }
 
 .text3 p{
     margin-left: 8%;
-    width: 300px;
+    width: 320px;
     padding-top: 10px;
     text-align: justify;
 }
@@ -792,7 +792,7 @@
 
 .text5 p{
     margin-left: 5%;
-    width: 300px;
+    width: 320px;
     padding-top: 10px;
     text-align: justify;
 }
@@ -857,7 +857,7 @@
 
 .container5 p{
     text-align: justify;
-    width: 300px;
+    width: 320px;
     margin-left: 8%;
     padding-top: 6px;
     font-size: 18px;
