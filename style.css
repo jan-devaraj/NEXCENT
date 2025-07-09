@@ -829,7 +829,7 @@
     margin-top: 20px;
     font-size: 18px;
     width: 410px;
-    padding-left: 40px;
+    padding-left: 20px;
     text-align: justify;
 }
 .cont5{
@@ -842,7 +842,7 @@
 }
 .cont5 span{
     color: green;
-    padding-left: 15px;
+    padding-left: 10px;
     padding-top: 25px;
     padding-bottom: 20px;
 }
